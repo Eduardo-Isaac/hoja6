@@ -1,3 +1,4 @@
+package com.hoja6;
 import java.util.*;
 
 public class Main {
